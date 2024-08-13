@@ -1,2 +1,2 @@
-# Optimizacion_LIB
+# Optimizacion LIB
 Optimización de un modelo térmico paramétrico de baterías de litio mediante regresión simbólica 
