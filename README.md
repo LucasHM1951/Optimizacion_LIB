@@ -14,4 +14,4 @@ Contiene dataframes de los coeficientes, junto con el numero de celdas en cada u
 Muestra script de GPLearn, junto con los resultados en el txt. 
 
 ## PySR.
-Muestra script de PySR, junto con los resultados en el txt. 
+Muestra script de PySR.
