@@ -16,7 +16,7 @@ Para el coeficiente de arrastre y el factor de fricción se consiguen replicar l
 
 UPDATE 02/29 
 
-i) CDrag: el coeficiente de la exponencial del S se ajusta automaticamente, obteniendo valores similares que el valor original. Lo cual no ocurria para el coeficiente del Re, se probaron distintas combinaciones: distintos rangos para la constantes, dejar uno fijo y que se ajuste el otro, pero la única vez que considera el Reynolds en la ecuación es cuando esos parametros fijos. 
+i) CDrag: con incorporar las funciones explicitas, se consiguen replicar los resultados de Rafael. Tras intentar el ajuste automatico del exponente, el valor del coeficiente que acompaña al S si se ajusta automaticamente,  obteniendo un valor muy similar al original. Con los coeficientes que acompaña al Re, no se consigue ajustar automaticamente, se intentaron distintas combinaciones: probar diferentes rangos para las constantes, dejar una fija y la otra variable, pero solamente incluye al Re en la ecuación final cuando ambos valores se dejan fijos. 
 
 ii) FFriction: con incorporar las funciones explicitas, se consiguen replicar los resultados de Rafael. 
 
