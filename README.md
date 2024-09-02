@@ -20,6 +20,8 @@ i) CDrag: el coeficiente de la exponencial del S se ajusta automaticamente, obte
 
 ii) FFriction: con incorporar las funciones explicitas, se consiguen replicar los resultados de Rafael. 
 
+iii) Nusselt: con incorporar las funciones explicitas, no se consiguen replicar los resultados de Rafael, pero las ecuaciones presentan mejores metricas, por lo que hay que revisar si estas tienen sentido físico. 
+
 
 ## PySR.
 UPDATE 02/09: 
