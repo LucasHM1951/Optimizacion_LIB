@@ -18,6 +18,8 @@ UPDATE 02/29
 
 i) CDrag: el coeficiente de la exponencial del S se ajusta automaticamente, obteniendo valores similares que el valor original. Lo cual no ocurria para el coeficiente del Re, se probaron distintas combinaciones: distintos rangos para la constantes, dejar uno fijo y que se ajuste el otro, pero la única vez que considera el Reynolds en la ecuación es cuando esos parametros fijos. 
 
+ii) FFriction: con incorporar las funciones explicitas, se consiguen replicar los resultados de Rafael. 
+
 
 ## PySR.
 UPDATE 02/09: 
