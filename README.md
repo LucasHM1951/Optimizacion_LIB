@@ -20,7 +20,7 @@ i) CDrag: con incorporar las funciones explicitas, se consiguen replicar los res
 
 ii) FFriction: con incorporar las funciones explicitas, se consiguen replicar los resultados de Rafael. 
 
-iii) Nusselt: con incorporar las funciones explicitas, no se consiguen replicar los resultados de Rafael, pero las ecuaciones presentan mejores metricas, por lo que hay que revisar si estas tienen sentido físico. 
+iii) Nusselt: con incorporar las funciones explicitas, no se consiguen replicar los resultados de Rafael, pero las ecuaciones presentan mejores metricas, por lo que hay que revisar si estas tienen sentido físico. Notar que el valor del Prandtl es practicamente constante. Notar igual que el valor del fitness igual es relativamente alto. 
 
 
 ## PySR.
