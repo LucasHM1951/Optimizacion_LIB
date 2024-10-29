@@ -27,3 +27,10 @@ iii) Nusselt: con incorporar las funciones explicitas, no se consiguen replicar 
 UPDATE 02/09: 
 
 i) CDrag: se añade notebook con resultados de PySR con el coeficiente de arrastre, obteniendo métricas similares. 
+
+## Balanceo de Datos
+Contiene archivos de los datos balanceados:
+
+i) _bal: balanceo de las clases en S, de manera aleatoria
+ii) _fil: filtrado de los datos
+iii) _comb: combinacion de ambos, es decir, balanceo de clases a partir de los datos filtrados
