@@ -32,5 +32,7 @@ i) CDrag: se añade notebook con resultados de PySR con el coeficiente de arrast
 Contiene archivos de los datos balanceados:
 
 i) _bal: balanceo de las clases en S, de manera aleatoria
+
 ii) _fil: filtrado de los datos
+
 iii) _comb: combinacion de ambos, es decir, balanceo de clases a partir de los datos filtrados
